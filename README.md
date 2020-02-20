@@ -1,5 +1,12 @@
 # EarthSDK标绘插件
 
+修改双箭头插件:
+
+
+设置doubleArrow._fixedPositionsNum=4 绘制双箭头
+设置doubleArrow._fixedPositionsNum=3 绘制单箭头
+
+
 ![preview](./Tools/readme/1.png)
 
 ## 特点
